@@ -44,7 +44,7 @@
     <footer class="row">
       <div class="col-12">
         &#169; 2021 Cyrill Martin - Vue.js files available
-        <a href="https://github.com/cyrill-martin/online-cv" target="_blank"
+        <a href="https://github.com/cyrill-martin/cyrill-martin.github.io" target="_blank"
           >here</a
         >
       </div>
