@@ -1,0 +1,286 @@
+{
+  "firstName": "Cyrill",
+  "lastName": "Martin",
+  "middleName": null,
+  "headline": {
+    "jobTitle": null,
+    "summary": "Web Application Developer · Data & Information Architect · Dedicated to interdisciplinary perspectives on information retrieval and knowledge transfer · Skilled in structuring content and data for humans and machines"
+  },
+  "image": "photo.png",
+  "contact": {
+    "eMail": "cyrill.martin@hey.com",
+    "phone": null,
+    "website": "https://cyrill-martin.github.io/",
+    "address": {
+      "street": null,
+      "postalCode": null,
+      "city": null,
+      "country": null
+    }
+  },
+  "socialNetwork": [
+    {
+      "network": "LinkedIn",
+      "url": "https://ch.linkedin.com/in/cyrill-martin-b7177a12b"
+    },
+    {
+      "network": "Twitter",
+      "url": "https://twitter.com/cyrill_martin"
+    },
+    {
+      "network": "GitHub",
+      "url": "https://github.com/cyrill-martin"
+    }
+  ],
+  "experience": {
+    "areas": ["Design", "Management", "Data & Content", "Development"],
+    "job": [
+      {
+        "title": "Web Application Developer",
+        "company": "kmapper GmbH",
+        "url": "https://kmapper.com",
+        "type": "Self-employed",
+        "period": {
+          "from": "Jan 2021",
+          "to": "Present"
+        },
+        "summary": "Creating data & information architecture · Making data visualizations · Developing prototype and production web sites, web applications, and web services",
+        "stack": [
+          "Vue.js",
+          "D3.js",
+          "Python",
+          "Flask",
+          "Ruby",
+          "Rails",
+          "Jekyll",
+          "Docker"
+        ],
+        "areaValues": [0.9, 1, 1, 1]
+      },
+      {
+        "title": "Frontend Developer",
+        "company": "Roche",
+        "url": "https://www.roche.com/",
+        "type": "Contract",
+        "period": {
+          "from": "Mar 2021",
+          "to": "Jun 2021"
+        },
+        "summary": "Developed the user interface and custom data visualizations for a drug discovery project's data exploration website · Developed custom features to group, sort, and share box plots, heat maps, line charts, and spider plots · Integrated data export of explored data · Implemented single sign on user flow",
+        "stack": ["Vue.js", "D3.js", "Django", "Docker"],
+        "areaValues": [0.8, 0.1, 1, 1]
+      },
+      {
+        "title": "Tool Coordinator and Developer",
+        "company": "University of Basel",
+        "url": "https://www.unibas.ch/",
+        "type": "Contract",
+        "period": {
+          "from": "Feb 2020",
+          "to": "Dec 2020"
+        },
+        "summary": "Integrated individual technical and representational claims into the overall framework of <a href=\"http://inseri.swiss/\" target=\"_blank\">inseri</a> · Developed frontend modules and data visualizations for individual scientific edition projects · Developed two backend microservices for the inseri infrastructure · Developed import scripts for the migration of the original project data to the inseri infrastructure · Mediated needs between scientific edition projects and software architecture · Developed <a href=\"https://e-editiones.ch/\" target=\"_blank\">e-editiones</a> for sharing Humanities ontologies in human- and machine-readable formats",
+        "stack": [
+          "Angular",
+          "D3.js",
+          "Python",
+          "Flask",
+          "XSLT",
+          "Jekyll",
+          "Docker"
+        ],
+        "areaValues": [0.6, 0.2, 1, 1]
+      },
+      {
+        "title": "Co-Initiator",
+        "company": "unscrunch",
+        "url": "https://unscrun.ch/",
+        "type": "Self-employed",
+        "period": {
+          "from": "Jun 2019",
+          "to": "Mar 2020"
+        },
+        "summary": "unscrunch was an interdisciplinary digital agency based in Basel with a strong focus on structured data, relevant content, digital transformation, and innovative online solutions",
+        "stack": ["D3.js", "Ruby", "Jekyll"],
+        "areaValues": [0.5, 0.9, 1, 0.9]
+      },
+      {
+        "title": "Strategic Competence Lead",
+        "company": "Karger Publishers",
+        "url": "https://www.karger.com/",
+        "type": "Permanent",
+        "period": {
+          "from": "Aug 2018",
+          "to": "May 2019"
+        },
+        "summary": "Developed Karger’s strategic competences in advanced technologies · Established knowledge transfer of complex solutions · Enriched data using machine learning and/or external data · Assessed internal opportunities as well as external partners regarding data science, artificial intelligence, and blockchain",
+        "stack": ["SQL", "XPath", "R", "Ruby"],
+        "areaValues": [0, 1, 1, 0.9]
+      },
+      {
+        "title": "Head of Marketing Online & Databases",
+        "company": "Karger Publishers",
+        "url": "https://www.karger.com/",
+        "type": "Permanent",
+        "period": {
+          "from": "Oct 2015",
+          "to": "Jul 2018"
+        },
+        "summary": "Improved production and distribution workflows for bibliographic, content, and metadata standards · Managed a team of four staff members, recruited three positions · Enhanced data quality and integrity using external data sources · Established GDPR compliance of direct marketing data",
+        "stack": ["SQL", "XML"],
+        "areaValues": [0, 1, 1, 0.5]
+      },
+      {
+        "title": "eContent & ePartner",
+        "company": "Karger Publishers",
+        "url": "https://www.karger.com/",
+        "type": "Permanent",
+        "period": {
+          "from": "Feb 2013",
+          "to": "Sep 2015"
+        },
+        "summary": "Led workflow and data conversion from Karger's own SGML standard to the Journal Article Tag Suite (JATS) XML · Streamlined development and maintenance of all content and metadata standards as well as data distributions",
+        "stack": ["SQL", "XML"],
+        "areaValues": [0, 0.5, 1, 0.5]
+      },
+      {
+        "title": "Scientific Proofreader",
+        "company": "Karger Publishers",
+        "url": "https://www.karger.com/",
+        "type": "Permanent",
+        "period": {
+          "from": "Feb 2012",
+          "to": "Jan 2013"
+        },
+        "summary": "Arranged scientific articles to ensure readability, correctness, and consistency of content (text, figures, tables), grammar, spelling, and punctuation",
+        "stack": [],
+        "areaValues": [0, 0.1, 1, 0]
+      },
+      {
+        "title": "Project Associate",
+        "company": "Symac AG",
+        "url": "http://symac.ch/",
+        "type": "Permanent",
+        "period": {
+          "from": "Mar 2010",
+          "to": "Feb 2012"
+        },
+        "summary": "Conducted requirements engineering and project documentation for bi-temporal database application · Initiated graphical user interface (GUI) prototypes · Organized automated GUI tests · Developed and performed usability tests and training sessions with end users",
+        "stack": ["SQL"],
+        "areaValues": [0.6, 0.2, 0.6, 0.2]
+      },
+      {
+        "title": "Scientific Associate",
+        "company": "University of Basel",
+        "url": "https://www.unibas.ch/",
+        "type": "Contract",
+        "period": {
+          "from": "Apr 2009",
+          "to": "Sep 2009"
+        },
+        "summary": "Planned field work for soil sciences part in interdisciplinary SNF project · Wrote paper based on Master's thesis results (DOI: 10.1016/j.baae.2010.04.006)",
+        "stack": ["R"],
+        "areaValues": [0, 0.2, 0.85, 0.3]
+      }
+    ]
+  },
+  "projects": {
+    "areas": [],
+    "projects": [
+      {
+        "title": null,
+        "company": null,
+        "url": null,
+        "period": {
+          "from": null,
+          "to": null
+        },
+        "summary": null,
+        "techStack": [],
+        "areaValues": []
+      }
+    ]
+  },
+  "education": {
+    "areas": ["Science", "Social Sciences", "Economics"],
+    "education": [
+      {
+        "institution": "University of Basel",
+        "degree": "Master of Arts and Science in Sustainable Development",
+        "period": {
+          "from": "Oct 2006",
+          "to": "Jan 2009"
+        },
+        "summary": "Master's thesis published as DOI <a href=\"https://doi.org/10.1016/j.baae.2010.04.006\" target=\"_blank\">10.1016/j.baae.2010.04.006</a>",
+        "areaValues": [1, 0.9, 0.7]
+      },
+      {
+        "institution": "University of Basel",
+        "degree": "Bachelor of Science in Geosciences",
+        "period": {
+          "from": "Oct 2003",
+          "to": "Sep 2006"
+        },
+        "summary": "Major in Environmental Geosciences",
+        "areaValues": [1, 0.5, 0.3]
+      }
+    ]
+  },
+  "digital": [
+    {
+      "skill": "Programming",
+      "stack": ["JavaScript", "Python", "Ruby", "XSLT"]
+    },
+    {
+      "skill": "Querying",
+      "stack": ["SQL", "XPath"]
+    },
+    {
+      "skill": "Visualization",
+      "stack": ["D3.js"]
+    },
+    {
+      "skill": "Web",
+      "stack": ["HTML", "CSS", "Vue.js", "Flask", "Jekyll", "Ruby on Rails"]
+    },
+    {
+      "skill": "DevOps",
+      "stack": ["Git", "Docker"]
+    }
+  ],
+  "languages": [
+    {
+      "lang": "German",
+      "level": "Native"
+    },
+    {
+      "lang": "English",
+      "level": "Fluent"
+    },
+    {
+      "lang": "French",
+      "level": "Basic knowledge"
+    }
+  ],
+  "publications": [
+    "Martin, C., Pohl, M., Alewell, C., Körner, C., & Rixen, C. (2010). Interrill erosion at disturbed alpine sites: Effects of plant functional diversity and vegetation cover. Basic and Applied Ecology, 11(7), 619–626. doi: <a href=\"https://doi.org/10.1016/j.baae.2010.04.006\" target=\"_blank\">10.1016/j.baae.2010.04.006</a>"
+  ],
+  "interests": [
+    {
+      "topic": "Interdisciplinarity",
+      "url": null
+    },
+    {
+      "topic": "Skateboard culture",
+      "url": null
+    },
+    {
+      "topic": "Big history",
+      "url": "https://www.bighistoryproject.com/home"
+    },
+    {
+      "topic": "Asian food",
+      "url": null
+    }
+  ]
+}
