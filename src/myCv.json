@@ -53,7 +53,9 @@
           "Ruby",
           "Rails",
           "Jekyll",
-          "Docker"
+          "Docker",
+          "Firebase",
+          "Heroku"
         ],
         "areaValues": [0.9, 1, 1, 1]
       },
@@ -67,7 +69,7 @@
           "to": "Jun 2021"
         },
         "summary": "Developed the user interface and custom data visualizations for a drug discovery project's data exploration website · Developed custom features to group, sort, and share box plots, heat maps, line charts, and spider plots · Integrated data export of explored data · Implemented single sign on user flow",
-        "stack": ["Vue.js", "D3.js", "Django", "Docker"],
+        "stack": ["Vue.js", "D3.js", "Django", "MongoDB", "Docker"],
         "areaValues": [0.8, 0.1, 1, 1]
       },
       {
@@ -83,6 +85,7 @@
         "stack": [
           "Angular",
           "D3.js",
+          "MongoDB",
           "Python",
           "Flask",
           "XSLT",
