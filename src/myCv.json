@@ -50,8 +50,6 @@
           "D3.js",
           "Python",
           "Flask",
-          "Ruby",
-          "Rails",
           "Jekyll",
           "Docker",
           "Firebase",
@@ -104,7 +102,7 @@
           "to": "Mar 2020"
         },
         "summary": "unscrunch was an interdisciplinary digital agency based in Basel with a strong focus on structured data, relevant content, digital transformation, and innovative online solutions",
-        "stack": ["D3.js", "Ruby", "Jekyll"],
+        "stack": ["D3.js", "Ruby", "Jekyll", "Heroku"],
         "areaValues": [0.5, 0.9, 1, 0.9]
       },
       {
@@ -116,7 +114,7 @@
           "from": "Aug 2018",
           "to": "May 2019"
         },
-        "summary": "Developed Karger’s strategic competences in advanced technologies · Established knowledge transfer of complex solutions · Enriched data using machine learning and/or external data · Assessed internal opportunities as well as external partners regarding data science, artificial intelligence, and blockchain",
+        "summary": "Developed Karger’s strategic competences in advanced technologies · Established knowledge transfer of complex solutions · Built support vector machine based on PubMed data to classify scientific articles · Assessed internal opportunities as well as external partners regarding data science, artificial intelligence, and blockchain",
         "stack": ["SQL", "XPath", "R", "Ruby"],
         "areaValues": [0, 1, 1, 0.9]
       },
@@ -129,7 +127,7 @@
           "from": "Oct 2015",
           "to": "Jul 2018"
         },
-        "summary": "Improved production and distribution workflows for bibliographic, content, and metadata standards · Managed a team of four staff members, recruited three positions · Enhanced data quality and integrity using external data sources · Established GDPR compliance of direct marketing data",
+        "summary": "Improved production and distribution workflows adhering to bibliographic, content, and metadata standards · Managed a team of four staff members, recruited three positions · Enhanced data quality and integrity using external data sources · Established GDPR compliance of direct marketing data",
         "stack": ["SQL", "XML"],
         "areaValues": [0, 1, 1, 0.5]
       },
@@ -232,7 +230,7 @@
   "digital": [
     {
       "skill": "Programming",
-      "stack": ["JavaScript", "Python", "Ruby", "XSLT"]
+      "stack": ["JavaScript", "Python", "XSLT", "Ruby"]
     },
     {
       "skill": "Querying",
