@@ -24,6 +24,10 @@
         <the-education :education="cv.education"></the-education>
       </section>
 
+      <section id="sec-projects">
+        <the-projects :projects="cv.projects"></the-projects>
+      </section>
+
       <section id="sec-digital">
         <the-digital :digital="cv.digital"></the-digital>
       </section>
@@ -60,6 +64,7 @@ import TheDigital from "./components/TheDigital.vue";
 import TheLanguages from "./components/TheLanguages.vue";
 import ThePublications from "./components/ThePublications.vue";
 import TheInterests from "./components/TheInterests.vue";
+import TheProjects from "./components/TheProjects.vue";
 import d3 from "./d3-importer.js";
 import myCv from "./myCv.json"
 
@@ -72,6 +77,7 @@ export default {
     TheLanguages,
     ThePublications,
     TheInterests,
+    TheProjects,
   },
   created() {
     window.addEventListener("resize", this.resetSelections);

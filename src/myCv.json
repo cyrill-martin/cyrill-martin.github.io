@@ -185,23 +185,85 @@
       }
     ]
   },
-  "projects": {
-    "areas": [],
-    "projects": [
-      {
-        "title": null,
-        "company": null,
-        "url": null,
-        "period": {
-          "from": null,
-          "to": null
-        },
-        "summary": null,
-        "techStack": [],
-        "areaValues": []
-      }
-    ]
-  },
+  "projects": [
+    {
+      "title": "nationalrat.kmapper.com",
+      "company": null,
+      "url": "http://nationalrat.kmapper.com",
+      "gitHub": "https://github.com/cyrill-martin/nationalrat",
+      "period": {
+        "from": null,
+        "to": null
+      },
+      "summary": "A dynamic visualization showing the distribution of seats for the 200 members of the Swiss National Council"
+    },
+    {
+      "title": "cyrill-martin.github.io",
+      "company": null,
+      "url": "https://cyrill-martin.github.io/",
+      "gitHub": "https://github.com/cyrill-martin/cyrill-martin.github.io",
+      "period": {
+        "from": null,
+        "to": null
+      },
+      "summary": "The online CV you are currently visiting"
+    },
+    {
+      "title": "kmapper.com",
+      "company": null,
+      "url": "https://kmapper.com",
+      "gitHub": "https://github.com/cyrill-martin/kmapper-GmbH",
+      "period": {
+        "from": null,
+        "to": null
+      },
+      "summary": "Company website"
+    },
+    {
+      "title": "kmapper.org",
+      "company": null,
+      "url": "https://kmapper.org",
+      "gitHub": "https://github.com/cyrill-martin/kmapper",
+      "period": {
+        "from": null,
+        "to": null
+      },
+      "summary": "A tool visualizing scientific search results in an interdisciplinary context"
+    },
+    {
+      "title": "e-editiones.ch",
+      "company": null,
+      "url": "https://e-editiones.ch/ontology",
+      "gitHub": "https://github.com/nie-ine/e-editiones",
+      "period": {
+        "from": null,
+        "to": null
+      },
+      "summary": "Repository of ontologies in human- and machine-readable formats"
+    },
+    {
+      "title": "Machine Reasoning Microservice",
+      "company": null,
+      "url": null,
+      "gitHub": "https://github.com/nie-ine/microservice-reasoning-task",
+      "period": {
+        "from": null,
+        "to": null
+      },
+      "summary": "A machine reasoning microservice built for <a href=\"http://inseri.swiss/\" target=\"_blank\">inseri</a>"
+    },
+    {
+      "title": "Interactive Charts",
+      "company": null,
+      "url": null,
+      "gitHub": null,
+      "period": {
+        "from": null,
+        "to": null
+      },
+      "summary": "Some of the charts built for inseri: <a href=\"https://github.com/nie-ine/inseri/tree/devel/Tutorials/App%20descriptions%20for%20Researchers/Apps%20to%20visualise%20data/Bar%20Chart\" target=\"_blank\">Bar chart</a> · <a href=\"https://github.com/nie-ine/inseri/tree/devel/Tutorials/App%20descriptions%20for%20Researchers/Apps%20to%20visualise%20data/Grouped%20Bar%20Chart\" target=\"_blank\">Grouped bar chart</a> · <a href=\"https://github.com/nie-ine/inseri/tree/devel/Tutorials/App%20descriptions%20for%20Researchers/Apps%20to%20visualise%20data/Stacked%20Bar%20Chart\" target=\"_blank\">Stacked bar chart</a> · <a href=\"https://github.com/nie-ine/inseri/tree/devel/Tutorials/App%20descriptions%20for%20Researchers/Apps%20to%20visualise%20data/Pie%20Chart%20V2\" target=\"_blank\">Pie chart</a>"
+    }
+  ],
   "education": {
     "areas": ["Science", "Social Sciences", "Economics"],
     "education": [
