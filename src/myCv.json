@@ -186,17 +186,17 @@
     ]
   },
   "projects": [
-    // {
-    //   "title": "swisspolls.kmapper.com",
-    //   "company": null,
-    //   "url": "http://swisspolls.kmapper.com",
-    //   "gitHub": "https://github.com/cyrill-martin/swisspolls",
-    //   "period": {
-    //     "from": null,
-    //     "to": null
-    //   },
-    //   "summary": "Visualizations of the swissvotes data sets of the federal referendums follow-up surveys"
-    // },
+    {
+      "title": "swisspolls.kmapper.com",
+      "company": null,
+      "url": "https://swisspolls.kmapper.com",
+      "gitHub": "https://github.com/cyrill-martin/swisspolls",
+      "period": {
+        "from": null,
+        "to": null
+      },
+      "summary": "Visualizations of the swissvotes data sets of the federal referendums follow-up surveys"
+    },
     {
       "title": "nationalrat.kmapper.com",
       "company": null,
