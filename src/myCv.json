@@ -315,7 +315,7 @@
     },
     {
       "skill": "Web",
-      "stack": ["HTML", "CSS", "Vue.js", "Flask", "Jekyll", "Ruby on Rails"]
+      "stack": ["Vue.js", "Angular", "Flask", "Jinja2", "Jekyll", "HTML", "CSS/SCSS"]
     },
     {
       "skill": "DevOps",
