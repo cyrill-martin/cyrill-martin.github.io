@@ -4,7 +4,7 @@
   "middleName": null,
   "headline": {
     "jobTitle": null,
-    "summary": "Web Application Developer · Data & Information Architect · Dedicated to interdisciplinary perspectives on information retrieval and knowledge transfer · Skilled in structuring content and data for humans and machines"
+    "summary": "Web application developer · Data & information architect · Dedicated to interdisciplinary perspectives on information retrieval and knowledge transfer · Skilled in structuring content and data for humans and machines"
   },
   "image": "photo.png",
   "contact": {
@@ -47,13 +47,14 @@
         "summary": "Creating data & information architecture · Making data visualizations · Developing prototype and production web sites, web applications, and web services",
         "stack": [
           "Vue.js",
+          "Nuxt.js",
+          "VuePress",
           "D3.js",
+          "Jekyll",
           "Python",
           "Flask",
-          "Jekyll",
-          "Docker",
-          "Firebase",
-          "Heroku"
+          "NoSQL",
+          "SQL"
         ],
         "areaValues": [0.9, 1, 1, 1]
       },
@@ -306,8 +307,8 @@
       "stack": ["JavaScript", "Python", "XSLT", "Ruby"]
     },
     {
-      "skill": "Querying",
-      "stack": ["SQL", "XPath"]
+      "skill": "Modeling & Querying",
+      "stack": ["SQL", "NoSQL", "XML", "XPath", "RDF"]
     },
     {
       "skill": "Visualization",
@@ -315,7 +316,7 @@
     },
     {
       "skill": "Web",
-      "stack": ["Vue.js", "Angular", "Flask", "Jinja2", "Jekyll", "HTML", "CSS/SCSS"]
+      "stack": ["Vue.js", "Nuxt.js", "VuePress", "Flask", "Jinja2", "Jekyll", "Liquid", "HTML", "CSS"]
     },
     {
       "skill": "DevOps",
