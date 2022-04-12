@@ -188,17 +188,6 @@
   },
   "projects": [
     {
-      "title": "swisspolls.kmapper.com",
-      "company": null,
-      "url": "https://swisspolls.kmapper.com",
-      "gitHub": "https://github.com/cyrill-martin/swisspolls",
-      "period": {
-        "from": null,
-        "to": null
-      },
-      "summary": "Visualizations of the swissvotes data sets of the federal referendums follow-up surveys"
-    },
-    {
       "title": "nationalrat.kmapper.com",
       "company": null,
       "url": "http://nationalrat.kmapper.com",
@@ -208,6 +197,17 @@
         "to": null
       },
       "summary": "A dynamic visualization showing the distribution of seats for the 200 members of the Swiss National Council"
+    },
+    {
+      "title": "swisspolls.kmapper.com",
+      "company": null,
+      "url": "https://swisspolls.kmapper.com",
+      "gitHub": "https://github.com/cyrill-martin/swisspolls",
+      "period": {
+        "from": null,
+        "to": null
+      },
+      "summary": "Visualizations of the swissvotes data sets of the federal referendums follow-up surveys"
     },
     {
       "title": "cyrill-martin.github.io",
@@ -275,6 +275,17 @@
       },
       "summary": "Some of the charts built for inseri: <a href=\"https://github.com/nie-ine/inseri/tree/devel/Tutorials/App%20descriptions%20for%20Researchers/Apps%20to%20visualise%20data/Bar%20Chart\" target=\"_blank\">Bar chart</a> · <a href=\"https://github.com/nie-ine/inseri/tree/devel/Tutorials/App%20descriptions%20for%20Researchers/Apps%20to%20visualise%20data/Grouped%20Bar%20Chart\" target=\"_blank\">Grouped bar chart</a> · <a href=\"https://github.com/nie-ine/inseri/tree/devel/Tutorials/App%20descriptions%20for%20Researchers/Apps%20to%20visualise%20data/Stacked%20Bar%20Chart\" target=\"_blank\">Stacked bar chart</a> · <a href=\"https://github.com/nie-ine/inseri/tree/devel/Tutorials/App%20descriptions%20for%20Researchers/Apps%20to%20visualise%20data/Pie%20Chart%20V2\" target=\"_blank\">Pie chart</a>"
     }
+    {
+      "title": "Kids multiplication tables game",
+      "company": null,
+      "url": "https://1mal1.kmapper.com",
+      "gitHub": "https://github.com/cyrill-martin/mathgame",
+      "period": {
+        "from": null,
+        "to": null
+      },
+      "summary": "Learn your multiplication tables and get rewarded by silly Youtube videos of cats and dogs"
+    }
   ],
   "education": {
     "areas": ["Science", "Social Sciences", "Economics"],
@@ -316,7 +327,17 @@
     },
     {
       "skill": "Web",
-      "stack": ["Vue.js", "Nuxt.js", "VuePress", "Flask", "Jinja2", "Jekyll", "Liquid", "HTML", "CSS"]
+      "stack": [
+        "Vue.js",
+        "Nuxt.js",
+        "VuePress",
+        "Flask",
+        "Jinja2",
+        "Jekyll",
+        "Liquid",
+        "HTML",
+        "CSS"
+      ]
     },
     {
       "skill": "DevOps",
