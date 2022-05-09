@@ -46,10 +46,9 @@
         },
         "summary": "Creating data & information architecture · Making data visualizations · Developing prototype and production web sites, web applications, and web services",
         "stack": [
-          "Vue.js",
-          "Nuxt.js",
-          "VuePress",
+          "JavaScript",
           "D3.js",
+          "Vue.js",
           "Jekyll",
           "Python",
           "Flask",
