@@ -21,7 +21,7 @@
   "socialNetwork": [
     {
       "network": "LinkedIn",
-      "url": "https://ch.linkedin.com/in/cyrill-martin-b7177a12b"
+      "url": "https://www.linkedin.com/in/cyrill-martin/"
     },
     {
       "network": "Twitter",
@@ -36,7 +36,7 @@
     "areas": ["Design", "Management", "Data & Content", "Development"],
     "job": [
       {
-        "title": "Web Consultant",
+        "title": "Web Consultant &  Developer",
         "company": "kmapper GmbH",
         "url": "https://kmapper.com",
         "type": "Self-employed",
@@ -67,7 +67,7 @@
           "from": "Mar 2021",
           "to": "Jun 2021"
         },
-        "summary": "Developed the user interface and custom data visualizations for a drug discovery project's data exploration website · Developed custom features to group, sort, and share box plots, heat maps, line charts, and spider plots · Integrated data export of explored data · Implemented single sign on user flow",
+        "summary": "Developed the user interface and custom data visualizations for a pREDi/NRD drug discovery project's data exploration website · Developed custom features to group, sort, and share box plots, heat maps, line charts, and spider plots · Integrated data export of explored data · Implemented single sign-on user flow",
         "stack": ["Vue.js", "D3.js", "Django", "MongoDB", "Docker"],
         "areaValues": [0.8, 0.1, 1, 1]
       },
@@ -80,7 +80,7 @@
           "from": "Feb 2020",
           "to": "Dec 2020"
         },
-        "summary": "Integrated individual technical and representational claims into the overall framework of <a href=\"http://inseri.swiss/\" target=\"_blank\">inseri</a> · Developed frontend modules and data visualizations for individual scientific edition projects · Developed two backend microservices for the inseri infrastructure · Developed import scripts for the migration of the original project data to the inseri infrastructure · Mediated needs between scientific edition projects and software architecture · Developed <a href=\"https://e-editiones.ch/\" target=\"_blank\">e-editiones</a> for sharing Humanities ontologies in human- and machine-readable formats",
+        "summary": "Integrated individual technical and representational claims into the overall framework of <a href=\"http://inseri.swiss/\" target=\"_blank\">inseri</a> · Developed frontend modules and data visualizations for individual scientific edition projects · Developed two backend microservices for the inseri infrastructure · Developed import scripts for the migration of original project data to the inseri infrastructure · Mediated needs between scientific edition projects and software architecture · Developed <a href=\"https://e-editiones.ch/\" target=\"_blank\">e-editiones</a> for sharing Humanities ontologies in human- and machine-readable formats",
         "stack": [
           "Angular",
           "D3.js",
@@ -103,7 +103,7 @@
           "to": "Mar 2020"
         },
         "summary": "unscrunch was an interdisciplinary digital agency based in Basel with a strong focus on structured data, relevant content, digital transformation, and innovative online solutions",
-        "stack": ["D3.js", "Ruby", "Jekyll", "Heroku"],
+        "stack": ["Ruby", "D3.js", "Jekyll"],
         "areaValues": [0.5, 0.9, 1, 0.9]
       },
       {
@@ -115,8 +115,8 @@
           "from": "Aug 2018",
           "to": "May 2019"
         },
-        "summary": "Developed Karger’s strategic competences in advanced technologies · Established knowledge transfer of complex solutions · Built support vector machine based on PubMed data to classify scientific articles · Assessed internal opportunities as well as external partners regarding data science, artificial intelligence, and blockchain",
-        "stack": ["SQL", "XPath", "R", "Ruby"],
+        "summary": "Developed Karger’s strategic competences in advanced technologies · Established knowledge transfer of complex solutions · Built support vector machine based on PubMed data to classify scientific articles by type · Assessed internal opportunities as well as external partners regarding data science, artificial intelligence, and blockchain",
+        "stack": ["SQL", "XML", "XPath", "R", "Ruby"],
         "areaValues": [0, 1, 1, 0.9]
       },
       {
@@ -141,7 +141,7 @@
           "from": "Feb 2013",
           "to": "Sep 2015"
         },
-        "summary": "Led workflow and data conversion from Karger's own SGML standard to the Journal Article Tag Suite (JATS) XML · Streamlined development and maintenance of all content and metadata standards as well as data distributions",
+        "summary": "Led workflow and data conversion from Karger's own SGML standard to the Journal Article Tag Suite (JATS) XML in order to have web-ready source data · Streamlined development and maintenance of all publications-related content and metadata standards as well as data distributions",
         "stack": ["SQL", "XML"],
         "areaValues": [0, 0.5, 1, 0.5]
       },
@@ -180,7 +180,7 @@
           "from": "Apr 2009",
           "to": "Sep 2009"
         },
-        "summary": "Planned field work for soil sciences part in interdisciplinary SNF project · Wrote paper based on Master's thesis results (DOI: 10.1016/j.baae.2010.04.006)",
+        "summary": "Planned field work for soil sciences part in interdisciplinary SNF project · Wrote scientific paper based on Master's thesis results (DOI: 10.1016/j.baae.2010.04.006)",
         "stack": ["R"],
         "areaValues": [0, 0.2, 0.85, 0.3]
       }
@@ -315,11 +315,11 @@
   "digital": [
     {
       "skill": "Programming",
-      "stack": ["JavaScript", "Python", "XSLT", "Ruby"]
+      "stack": ["JavaScript", "Python", "Ruby", "XSLT"]
     },
     {
-      "skill": "Modeling & Querying",
-      "stack": ["SQL", "NoSQL", "XML", "XPath", "RDF"]
+      "skill": "Modeling",
+      "stack": ["SQL", "NoSQL", "XML", "RDF"]
     },
     {
       "skill": "Visualization",
@@ -328,15 +328,14 @@
     {
       "skill": "Web",
       "stack": [
+        "HTML",
+        "CSS",
+        "JavaScript",
         "Vue.js",
-        "Nuxt.js",
-        "VuePress",
         "Flask",
         "Jinja2",
         "Jekyll",
-        "Liquid",
-        "HTML",
-        "CSS"
+        "Liquid"
       ]
     },
     {
