@@ -4,7 +4,7 @@
   "middleName": null,
   "headline": {
     "jobTitle": null,
-    "summary": "Web consultant · Developer · Data & information architect · Dedicated to interdisciplinary perspectives on information retrieval and knowledge transfer · Skilled in structuring content and data for humans and machines"
+    "summary": "Business Analyst · Developer · Data & information architect · Dedicated to interdisciplinary perspectives on information retrieval and knowledge transfer · Skilled in structuring content and data for humans and machines"
   },
   "image": "photo.png",
   "contact": {
@@ -36,7 +36,7 @@
     "areas": ["Design", "Management", "Data & Content", "Development"],
     "job": [
       {
-        "title": "Web Consultant &  Developer",
+        "title": "Business Analyst &  Developer",
         "company": "kmapper GmbH",
         "url": "https://kmapper.com",
         "type": "Self-employed",
