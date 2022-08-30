@@ -40,14 +40,14 @@
         <the-publications :publications="cv.publications"></the-publications>
       </section>
 
-      <section id="sec-interests">
+      <!-- <section id="sec-interests">
         <the-interests :interests="cv.interests"></the-interests>
-      </section>
+      </section> -->
     </main>
 
     <footer class="row">
       <div class="col-12">
-        &#169; 2021 Cyrill Martin - Vue.js files available
+        &#169; 2022 Cyrill Martin - Vue.js files available
         <a href="https://github.com/cyrill-martin/cyrill-martin.github.io" target="_blank"
           >here</a
         >

@@ -4,11 +4,11 @@
   "middleName": null,
   "headline": {
     "jobTitle": null,
-    "summary": "Business Analyst · Developer · Data & information architect · Dedicated to interdisciplinary perspectives on information retrieval and knowledge transfer · Skilled in structuring content and data for humans and machines"
+    "summary": "Developer & Business Analyst · Dedicated to interdisciplinary perspectives on information retrieval and knowledge transfer · Skilled in structuring data and content for humans and machines"
   },
   "image": "photo.png",
   "contact": {
-    "eMail": "cyrill.martin@hey.com",
+    "eMail": "cyrill.martin@gmail.com",
     "phone": null,
     "website": "https://cyrill-martin.github.io/",
     "address": {
@@ -36,7 +36,7 @@
     "areas": ["Design", "Management", "Data & Content", "Development"],
     "job": [
       {
-        "title": "Business Analyst &  Developer",
+        "title": "Developer & Business Analyst",
         "company": "kmapper GmbH",
         "url": "https://kmapper.com",
         "type": "Self-employed",
@@ -44,7 +44,7 @@
           "from": "Jan 2021",
           "to": "Present"
         },
-        "summary": "Creating data & information architecture · Making data visualizations · Developing prototype and production web sites, web applications, and web services",
+        "summary": "Creating data & information architecture · Performing requirements engineering · Evaluating data and systems  · Making data visualizations · Developing prototype and production web sites, web applications, and web services",
         "stack": [
           "JavaScript",
           "D3.js",
@@ -79,7 +79,7 @@
           "from": "Feb 2020",
           "to": "Dec 2020"
         },
-        "summary": "Integrated individual technical and representational claims into the overall framework of <a href=\"http://inseri.swiss/\" target=\"_blank\">inseri</a> · Developed frontend modules and data visualizations for individual scientific edition projects · Developed two backend microservices for the inseri infrastructure · Developed import scripts for the migration of original project data to the inseri infrastructure · Mediated needs between scientific edition projects and software architecture · Developed <a href=\"https://e-editiones.ch/\" target=\"_blank\">e-editiones</a> for sharing Humanities ontologies in human- and machine-readable formats",
+        "summary": "Integrated individual technical and representational claims into the overall framework of <a href=\"http://inseri.swiss/\" target=\"_blank\">inseri</a> · Developed frontend modules and data visualizations for individual scientific edition projects · Developed two backend microservices for the inseri infrastructure · Developed import scripts for the migration of original project data to the inseri infrastructure · Mediated needs between scientific edition projects and software architecture · Developed <a href=\"https://e-editiones.ch/ontology\" target=\"_blank\">e-editiones</a> for sharing Humanities ontologies in human- and machine-readable formats",
         "stack": [
           "Angular",
           "D3.js",
@@ -101,7 +101,7 @@
           "from": "Jun 2019",
           "to": "Mar 2020"
         },
-        "summary": "unscrunch was an interdisciplinary digital agency based in Basel with a strong focus on structured data, relevant content, digital transformation, and innovative online solutions",
+        "summary": "unscrunch was an interdisciplinary digital agency based in Basel with a strong focus on structured data, relevant content, digital transformation, and innovative online solutions.",
         "stack": ["Ruby", "D3.js", "Jekyll"],
         "areaValues": [0.5, 0.9, 1, 0.9]
       },
@@ -114,7 +114,7 @@
           "from": "Aug 2018",
           "to": "May 2019"
         },
-        "summary": "Developed Karger’s strategic competences in advanced technologies · Established knowledge transfer of complex solutions · Built support vector machine based on PubMed data to classify scientific articles by type · Assessed internal opportunities as well as external partners regarding data science, artificial intelligence, and blockchain",
+        "summary": "Developed Karger’s strategic competences in advanced technologies · Established knowledge transfer of complex solutions · Built support vector machine based on PubMed data to classify scientific articles by article type · Assessed internal opportunities as well as external partners regarding data science, artificial intelligence, and blockchain",
         "stack": ["SQL", "XML", "XPath", "R", "Ruby"],
         "areaValues": [0, 1, 1, 0.9]
       },
@@ -166,7 +166,7 @@
           "from": "Mar 2010",
           "to": "Feb 2012"
         },
-        "summary": "Conducted requirements engineering and project documentation for bi-temporal database application · Initiated graphical user interface (GUI) prototypes · Organized automated GUI tests · Developed and performed usability tests and training sessions with end users",
+        "summary": "Conducted requirements engineering and wrote project documentation for a bi-temporal database application · Initiated graphical user interface prototypes · Organized automated GUI tests · Developed and performed usability tests and training sessions with end users",
         "stack": ["SQL"],
         "areaValues": [0.6, 0.2, 0.6, 0.2]
       },
@@ -179,7 +179,7 @@
           "from": "Apr 2009",
           "to": "Sep 2009"
         },
-        "summary": "Planned field work for soil sciences part in interdisciplinary SNF project · Wrote scientific paper based on Master's thesis results (DOI: 10.1016/j.baae.2010.04.006)",
+        "summary": "Planned field work for soil sciences part in interdisciplinary SNF project · Wrote scientific paper based on own Master's thesis results",
         "stack": ["R"],
         "areaValues": [0, 0.2, 0.85, 0.3]
       }
@@ -321,10 +321,6 @@
       "stack": ["SQL", "NoSQL", "XML", "RDF"]
     },
     {
-      "skill": "Visualization",
-      "stack": ["D3.js"]
-    },
-    {
       "skill": "Web",
       "stack": [
         "HTML",
@@ -337,6 +333,10 @@
         "Liquid"
       ]
     },
+    {
+      "skill": "Data visualization",
+      "stack": ["D3.js"]
+    },    
     {
       "skill": "DevOps",
       "stack": ["Git", "Docker"]
@@ -358,23 +358,5 @@
   ],
   "publications": [
     "Martin, C., Pohl, M., Alewell, C., Körner, C., & Rixen, C. (2010). Interrill erosion at disturbed alpine sites: Effects of plant functional diversity and vegetation cover. Basic and Applied Ecology, 11(7), 619–626. doi: <a href=\"https://doi.org/10.1016/j.baae.2010.04.006\" target=\"_blank\">10.1016/j.baae.2010.04.006</a>"
-  ],
-  "interests": [
-    {
-      "topic": "Interdisciplinarity",
-      "url": null
-    },
-    {
-      "topic": "Skateboard culture",
-      "url": null
-    },
-    {
-      "topic": "Big history",
-      "url": "https://www.bighistoryproject.com/home"
-    },
-    {
-      "topic": "Asian food",
-      "url": null
-    }
   ]
 }
