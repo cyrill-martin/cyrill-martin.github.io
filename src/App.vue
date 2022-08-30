@@ -63,7 +63,7 @@ import TheEducation from "./components/stations/TheEducation.vue";
 import TheDigital from "./components/TheDigital.vue";
 import TheLanguages from "./components/TheLanguages.vue";
 import ThePublications from "./components/ThePublications.vue";
-import TheInterests from "./components/TheInterests.vue";
+// import TheInterests from "./components/TheInterests.vue";
 import TheProjects from "./components/TheProjects.vue";
 import d3 from "./d3-importer.js";
 import myCv from "./myCv.json"
@@ -76,7 +76,7 @@ export default {
     TheDigital,
     TheLanguages,
     ThePublications,
-    TheInterests,
+    // TheInterests,
     TheProjects,
   },
   created() {
