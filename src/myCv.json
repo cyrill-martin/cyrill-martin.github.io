@@ -324,13 +324,11 @@
       "skill": "Web",
       "stack": [
         "HTML",
-        "CSS",
+        "SCSS/CSS",
         "JavaScript",
         "Vue.js",
         "Flask",
-        "Jinja2",
-        "Jekyll",
-        "Liquid"
+        "Jekyll"
       ]
     },
     {
