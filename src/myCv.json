@@ -79,7 +79,7 @@
           "from": "Feb 2020",
           "to": "Dec 2020"
         },
-        "summary": "Integrated individual technical and representational claims into the overall framework of <a href=\"http://inseri.swiss/\" target=\"_blank\">inseri</a> · Developed frontend modules and data visualizations for individual scientific edition projects · Developed two backend microservices for the inseri infrastructure · Developed import scripts for the migration of original project data to the inseri infrastructure · Mediated needs between scientific edition projects and software architecture · Developed <a href=\"https://e-editiones.ch/ontology\" target=\"_blank\">e-editiones</a> for sharing Humanities ontologies in human- and machine-readable formats",
+        "summary": "Developed frontend components and data visualizations for individual scientific edition projects in <a href=\"http://inseri.swiss/\" target=\"_blank\">inseri</a> · Developed two backend microservices for the inseri infrastructure · Developed import scripts for the migration of original project data to the inseri infrastructure · Mediated needs between scientific edition projects and software architecture · Developed <a href=\"https://e-editiones.ch/ontology\" target=\"_blank\">e-editiones</a> for sharing Humanities ontologies in human- and machine-readable formats",
         "stack": [
           "Angular",
           "D3.js",
