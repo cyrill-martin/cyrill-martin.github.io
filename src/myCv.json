@@ -4,7 +4,7 @@
   "middleName": null,
   "headline": {
     "jobTitle": null,
-    "summary": "Developer & Business Analyst · Dedicated to interdisciplinary perspectives on information retrieval and knowledge transfer · Skilled in structuring data and content for humans and machines"
+    "summary": "Data Consultant · Skilled in structuring data and content for humans and machines"
   },
   "image": "photo.png",
   "contact": {
@@ -24,10 +24,6 @@
       "url": "https://www.linkedin.com/in/cyrill-martin/"
     },
     {
-      "network": "Twitter",
-      "url": "https://twitter.com/cyrill_martin"
-    },
-    {
       "network": "GitHub",
       "url": "https://github.com/cyrill-martin"
     }
@@ -36,7 +32,7 @@
     "areas": ["Design", "Management", "Data & Content", "Development"],
     "job": [
       {
-        "title": "Developer & Business Analyst",
+        "title": "Data Consultant",
         "company": "kmapper GmbH",
         "url": "https://kmapper.com",
         "type": "Self-employed",
@@ -44,16 +40,15 @@
           "from": "Jan 2021",
           "to": "Present"
         },
-        "summary": "Creating data & information architecture · Performing requirements engineering · Evaluating data and systems  · Making data visualizations · Developing prototype and production web sites, web applications, and web services",
+        "summary": "Analysis and visualization of data and information",
         "stack": [
           "JavaScript",
           "D3.js",
           "Vue.js",
-          "Jekyll",
           "Python",
           "Flask",
-          "NoSQL",
-          "SQL"
+          "R",
+          "ggplot2"
         ],
         "areaValues": [0.9, 1, 1, 1]
       },
@@ -187,6 +182,17 @@
   },
   "projects": [
     {
+      "title": "Does Money Buy Citations?",
+      "company": null,
+      "url": "https://cyrill-martin.github.io/money-and-citations/",
+      "gitHub": "https://github.com/cyrill-martin/money-and-citations",
+      "period": {
+        "from": null,
+        "to": null
+      },
+      "summary": "A project investigating the relationship between the financial support biomedical research projects receive and the number of citations their publications achieve"
+    },    
+    {
       "title": "nationalrat.kmapper.com",
       "company": null,
       "url": "http://nationalrat.kmapper.com",
@@ -240,17 +246,6 @@
         "to": null
       },
       "summary": "A tool visualizing scientific search results in an interdisciplinary context"
-    },
-    {
-      "title": "e-editiones.ch",
-      "company": null,
-      "url": "https://e-editiones.ch/ontology",
-      "gitHub": "https://github.com/nie-ine/e-editiones",
-      "period": {
-        "from": null,
-        "to": null
-      },
-      "summary": "Repository of ontologies in human- and machine-readable formats"
     },
     {
       "title": "Machine Reasoning Microservice",
@@ -314,17 +309,13 @@
   "digital": [
     {
       "skill": "Programming",
-      "stack": ["JavaScript", "Python", "Ruby", "XSLT"]
-    },
-    {
-      "skill": "Modeling",
-      "stack": ["SQL", "NoSQL", "XML", "RDF"]
+      "stack": ["JavaScript", "Python", "R", "XSLT"]
     },
     {
       "skill": "Web",
       "stack": [
         "HTML",
-        "SCSS/CSS",
+        "CSS",
         "JavaScript",
         "Vue.js",
         "Flask",
@@ -333,7 +324,7 @@
     },
     {
       "skill": "Data visualization",
-      "stack": ["D3.js"]
+      "stack": ["D3.js", "ggplot2"]
     },    
     {
       "skill": "DevOps",

@@ -47,7 +47,7 @@
 
     <footer class="row">
       <div class="col-12">
-        &#169; 2022 Cyrill Martin - Vue.js files available
+        &#169; 2023 Cyrill Martin - Vue.js files available
         <a href="https://github.com/cyrill-martin/cyrill-martin.github.io" target="_blank"
           >here</a
         >
