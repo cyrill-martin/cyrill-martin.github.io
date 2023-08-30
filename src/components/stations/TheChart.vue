@@ -137,7 +137,7 @@ export default {
         .attr("stroke", "lightgrey");
 
       const colors = (index) => {
-        const colors = ["223949", "8D5F51", "778F9A", "5F6371", "4C687C"]; // PHOTO
+        const colors = ["253840","212827","456271","89A8B5","9C6A54","364D5D","CB9686","62838C","4D3D35","557A83"]; // PHOTO
         return `#${colors[index % colors.length]}`;
       };
 

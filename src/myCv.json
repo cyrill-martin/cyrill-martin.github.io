@@ -53,6 +53,32 @@
         "areaValues": [0.9, 1, 1, 1]
       },
       {
+        "title": "Requirements Engineer",
+        "company": "Helvetia",
+        "url": "https://www.helvetia.com/",
+        "type": "Freelance",
+        "period": {
+          "from": "Oct 2022",
+          "to": "Present"
+        },
+        "summary": "Data analysis and requirements engineering for Helvetia's heliX platform - a frontend insurance solution based on Openshift and Kafka",
+        "stack": ["MongoDB"],
+        "areaValues": [0.6, 0.6, 1, 0.3]
+      },
+      {
+        "title": "Platform Manager – COVID Certificate Application",
+        "company": "Federal Office of Public Health FOPH",
+        "url": "https://www.bag.admin.ch/bag/en/home.html",
+        "type": "Freelance",
+        "period": {
+          "from": "Jan 2022",
+          "to": "Jun 2022"
+        },
+        "summary": "Steered platform optimization and upgrades for the National COVID Certificate Application Platform · Curated data sets for accurate usage reporting and produced monthly data reports · Managed and oversaw the distribution of funds to Swiss cantons",
+        "stack": ["Excel VBA"],
+        "areaValues": [0.1, 0.8, 1, 0.5]
+      },
+      {
         "title": "Frontend Developer",
         "company": "Roche",
         "url": "https://www.roche.com/",
