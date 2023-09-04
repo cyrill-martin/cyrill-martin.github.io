@@ -230,6 +230,17 @@
       "summary": "A dynamic visualization showing the distribution of seats for the 200 members of the Swiss National Council"
     },
     {
+      "title": "openfirst.ch",
+      "company": null,
+      "url": "https://openfirst.ch/",
+      "gitHub": null,
+      "period": {
+        "from": null,
+        "to": null
+      },
+      "summary": "An ongoing project of a foundation-financed association to make open data sources more accessible for high schoolers"
+    },
+    {
       "title": "swisspolls.kmapper.com",
       "company": null,
       "url": "https://swisspolls.kmapper.com",

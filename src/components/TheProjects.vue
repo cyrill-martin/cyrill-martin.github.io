@@ -1,7 +1,7 @@
 <template>
   <div class="row">
     <div class="col-12">
-      <h2>Open Projects</h2>
+      <h2>Public Projects</h2>
     </div>
   </div>
   <div class="row">
