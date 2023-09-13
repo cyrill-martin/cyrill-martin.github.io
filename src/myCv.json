@@ -40,7 +40,7 @@
           "from": "Jan 2021",
           "to": "Present"
         },
-        "summary": "Analysis and visualization of data and information",
+        "summary": "Design and optimize data and information architectures · Lead requirements engineering for data-intensive projects · Conduct comprehensive evaluations of data and systems for insights · Create engaging and informative data visualizations for diverse audiences",
         "stack": [
           "JavaScript",
           "D3.js",
@@ -48,7 +48,9 @@
           "Python",
           "Flask",
           "R",
-          "ggplot2"
+          "ggplot2",
+          "NoSQL",
+          "SQL"
         ],
         "areaValues": [0.9, 1, 1, 1]
       },
@@ -61,12 +63,12 @@
           "from": "Oct 2022",
           "to": "Present"
         },
-        "summary": "Data analysis and requirements engineering for Helvetia's heliX platform - a frontend insurance solution based on Openshift and Kafka",
+        "summary": "Conducting data analysis and requirements engineering initiatives for the heliX platform · Collaborating with developers to facilitate and fulfill development tasks for the platform",
         "stack": ["MongoDB"],
         "areaValues": [0.6, 0.6, 1, 0.3]
       },
       {
-        "title": "Platform Manager – COVID Certificate Application",
+        "title": "Platform Manager - National COVID Certificate Application",
         "company": "Federal Office of Public Health FOPH",
         "url": "https://www.bag.admin.ch/bag/en/home.html",
         "type": "Freelance",
@@ -74,7 +76,7 @@
           "from": "Jan 2022",
           "to": "Jun 2022"
         },
-        "summary": "Steered platform optimization and upgrades for the National COVID Certificate Application Platform · Curated data sets for accurate usage reporting and produced monthly data reports · Managed and oversaw the distribution of funds to Swiss cantons",
+        "summary": "Steered platform optimization and upgrades to enhance user experience and reliability · Curated data sets for accurate usage reporting and produced monthly data reports · Oversaw the equitable and timely distribution of funds to Swiss cantons, ensuring transparency and adherence",
         "stack": ["Excel VBA"],
         "areaValues": [0.1, 0.8, 1, 0.5]
       },
@@ -87,7 +89,7 @@
           "from": "Mar 2021",
           "to": "Jun 2021"
         },
-        "summary": "Developed the user interface and custom data visualizations for a pREDi/NRD drug discovery project's data exploration website · Developed custom features to group, sort, and share box plots, heat maps, line charts, and spider plots · Integrated data export of explored data · Implemented single sign-on user flow",
+        "summary": "Designed and developed a drug discovery data exploration website's user interface · Developed custom visualizations and features for intuitive data representation and sharing among a research group · Introduced seamless data export and implemented a streamlined single sign-on access",
         "stack": ["Vue.js", "D3.js", "Django", "MongoDB", "Docker"],
         "areaValues": [0.8, 0.1, 1, 1]
       },
@@ -100,7 +102,7 @@
           "from": "Feb 2020",
           "to": "Dec 2020"
         },
-        "summary": "Developed frontend components and data visualizations for individual scientific edition projects in <a href=\"http://inseri.swiss/\" target=\"_blank\">inseri</a> · Developed two backend microservices for the inseri infrastructure · Developed import scripts for the migration of original project data to the inseri infrastructure · Mediated needs between scientific edition projects and software architecture · Developed <a href=\"https://e-editiones.ch/ontology\" target=\"_blank\">e-editiones</a> for sharing Humanities ontologies in human- and machine-readable formats",
+        "summary": "Engineered frontend components and data visualizations for scientific editions on the inseri platform · Developed backend microservices and data migration scripts for the inseri infrastructure · Bridged scientific and software architectural needs, ensuring effective project alignment · Created a website to disseminate Humanities ontologies in both human- and machine-readable formats",
         "stack": [
           "Angular",
           "D3.js",
@@ -122,8 +124,8 @@
           "from": "Jun 2019",
           "to": "Mar 2020"
         },
-        "summary": "unscrunch was an interdisciplinary digital agency based in Basel with a strong focus on structured data, relevant content, digital transformation, and innovative online solutions.",
-        "stack": ["Ruby", "D3.js", "Jekyll"],
+        "summary": "Co-initiated an interdisciplinary digital agency emphasizing structured data and digital transformation · Developed solutions that prioritized content relevance and adhered to modern digital practices",
+        "stack": ["Python", "Jekyll"],
         "areaValues": [0.5, 0.9, 1, 0.9]
       },
       {
@@ -135,8 +137,8 @@
           "from": "Aug 2018",
           "to": "May 2019"
         },
-        "summary": "Developed Karger’s strategic competences in advanced technologies · Established knowledge transfer of complex solutions · Built support vector machine based on PubMed data to classify scientific articles by article type · Assessed internal opportunities as well as external partners regarding data science, artificial intelligence, and blockchain",
-        "stack": ["SQL", "XML", "XPath", "R", "Ruby"],
+        "summary": "Developed Karger’s strategic competences in advanced technologies · Facilitated knowledge transfer, simplifying complex technological solutions for internal teams · Constructed a support vector machine using PubMed data for precise scientific article classification",
+        "stack": ["SQL", "XML", "XPath", "R"],
         "areaValues": [0, 1, 1, 0.9]
       },
       {
@@ -148,12 +150,12 @@
           "from": "Oct 2015",
           "to": "Jul 2018"
         },
-        "summary": "Improved production and distribution workflows adhering to bibliographic, content, and metadata standards · Managed a team of four staff members, recruited three positions · Enhanced data quality and integrity using external data sources · Established GDPR compliance of direct marketing data",
+        "summary": "Streamlined production and distribution workflows, ensuring adherence to key bibliographic and metadata standards · Led and expanded a team of four, overseeing recruitment and team development · Elevated data quality by leveraging public data sources · Ensured direct marketing data aligned with GDPR compliance",
         "stack": ["SQL", "XML"],
         "areaValues": [0, 1, 1, 0.5]
       },
       {
-        "title": "eContent & ePartner",
+        "title": "Business Analyst, eContent & ePartner",
         "company": "Karger Publishers",
         "url": "https://www.karger.com/",
         "type": "Permanent",
@@ -161,7 +163,7 @@
           "from": "Feb 2013",
           "to": "Sep 2015"
         },
-        "summary": "Led workflow and data conversion from Karger's own SGML standard to the Journal Article Tag Suite (JATS) XML in order to have web-ready source data · Streamlined development and maintenance of all publications-related content and metadata standards as well as data distributions",
+        "summary": "Spearheaded the transition from Karger's proprietary SGML standard to JATS XML, optimizing content conversion workflows · Harmonized the development and upkeep of publication-related content, metadata standards, and data distributions",
         "stack": ["SQL", "XML"],
         "areaValues": [0, 0.5, 1, 0.5]
       },
@@ -174,12 +176,12 @@
           "from": "Feb 2012",
           "to": "Jan 2013"
         },
-        "summary": "Arranged scientific articles to ensure readability, correctness, and consistency of content (text, figures, tables), grammar, spelling, and punctuation",
+        "summary": "Reviewed and edited scientific articles to enhance readability, ensuring content consistency across text, figures, and tables · Diligently corrected grammar, spelling, and punctuation to maintain the publication's standards",
         "stack": [],
         "areaValues": [0, 0.1, 1, 0]
       },
       {
-        "title": "Project Associate",
+        "title": "IT Project Associate",
         "company": "Symac AG",
         "url": "http://symac.ch/",
         "type": "Permanent",
@@ -187,7 +189,7 @@
           "from": "Mar 2010",
           "to": "Feb 2012"
         },
-        "summary": "Conducted requirements engineering and wrote project documentation for a bi-temporal database application · Initiated graphical user interface prototypes · Organized automated GUI tests · Developed and performed usability tests and training sessions with end users",
+        "summary": "Conducted requirements engineering and crafted project documentation for a bi-temporal database application · Initiated graphical user interface prototypes · Implemented automated GUI tests · Developed and conducted usability tests and training sessions with end users",
         "stack": ["SQL"],
         "areaValues": [0.6, 0.2, 0.6, 0.2]
       },
@@ -200,7 +202,7 @@
           "from": "Apr 2009",
           "to": "Sep 2009"
         },
-        "summary": "Planned field work for soil sciences part in interdisciplinary SNF project · Wrote scientific paper based on own Master's thesis results",
+        "summary": "Orchestrated fieldwork planning for soil sciences within an interdisciplinary SNF project · Authored a scientific paper rooted in Master's thesis findings",
         "stack": ["R"],
         "areaValues": [0, 0.2, 0.85, 0.3]
       }
