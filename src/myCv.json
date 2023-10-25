@@ -221,15 +221,15 @@
       "summary": "A project investigating the relationship between the financial support biomedical research projects receive and the number of citations their publications achieve"
     },    
     {
-      "title": "nationalrat.kmapper.com",
+      "title": "parlament.kmapper.com",
       "company": null,
-      "url": "http://nationalrat.kmapper.com",
-      "gitHub": "https://github.com/cyrill-martin/nationalrat",
+      "url": "https://parlament.kmapper.com/",
+      "gitHub": "https://github.com/cyrill-martin/parlament",
       "period": {
         "from": null,
         "to": null
       },
-      "summary": "A dynamic visualization showing the distribution of seats for the 200 members of the Swiss National Council"
+      "summary": "A dynamic visualization showing the distribution of seats for the members of the Swiss parliament"
     },
     {
       "title": "swisspolls.kmapper.com",
