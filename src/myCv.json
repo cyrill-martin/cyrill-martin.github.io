@@ -268,12 +268,12 @@
       "title": "kmapper.org",
       "company": null,
       "url": "https://kmapper.org",
-      "gitHub": "https://github.com/cyrill-martin/kmapper",
+      "gitHub": "https://github.com/cyrill-martin/kmapper.org",
       "period": {
         "from": null,
         "to": null
       },
-      "summary": "A tool visualizing scientific search results in an interdisciplinary context"
+      "summary": "A tool mapping open knowledge and Sustainable Development Goals based on open access works indexed in OpenAlex.org"
     },
     {
       "title": "Machine Reasoning Microservice",
