@@ -210,6 +210,17 @@
   },
   "projects": [
     {
+      "title": "migration-bs.kmapper.com",
+      "company": null,
+      "url": "https://migration-bs.kmapper.com",
+      "gitHub": "https://github.com/cyrill-martin/basel-migration",
+      "period": {
+        "from": null,
+        "to": null
+      },
+      "summary": "Visualization of immigrations and emigrations between Basel and different parts of the world since 2006."
+    },
+    {
       "title": "Does Money Buy Citations?",
       "company": null,
       "url": "https://cyrill-martin.github.io/money-and-citations/",
