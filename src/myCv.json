@@ -32,29 +32,6 @@
     "areas": ["Design", "Management", "Data & Content", "Development"],
     "job": [
       {
-        "title": "Data Consultant",
-        "company": "kmapper GmbH",
-        "url": "https://kmapper.com",
-        "type": "Self-employed",
-        "period": {
-          "from": "Jan 2021",
-          "to": "Present"
-        },
-        "summary": "Designing and optimizing data and information architectures · Leading requirements engineering for data-intensive projects · Conducting comprehensive evaluations of data and systems for insights · Creating engaging and informative data visualizations for diverse audiences",
-        "stack": [
-          "JavaScript",
-          "D3.js",
-          "Vue.js",
-          "Python",
-          "Flask",
-          "R",
-          "ggplot2",
-          "NoSQL",
-          "SQL"
-        ],
-        "areaValues": [0.9, 1, 1, 1]
-      },
-      {
         "title": "Requirements Engineer",
         "company": "Helvetia",
         "url": "https://www.helvetia.com/",
@@ -92,6 +69,29 @@
         "summary": "Designed and developed a drug discovery data exploration website's user interface · Developed custom visualizations and features for intuitive data representation and sharing among a research group · Introduced seamless data export and implemented a streamlined single sign-on access",
         "stack": ["Vue.js", "D3.js", "Django", "MongoDB", "Docker"],
         "areaValues": [0.8, 0.1, 1, 1]
+      },
+      {
+        "title": "Data Consultant",
+        "company": "kmapper GmbH",
+        "url": "https://kmapper.com",
+        "type": "Self-employed",
+        "period": {
+          "from": "Jan 2021",
+          "to": "Present"
+        },
+        "summary": "Designing and optimizing data and information architectures · Leading requirements engineering for data-intensive projects · Conducting comprehensive evaluations of data and systems for insights · Creating engaging and informative data visualizations for diverse audiences",
+        "stack": [
+          "JavaScript",
+          "D3.js",
+          "Vue.js",
+          "Python",
+          "Flask",
+          "R",
+          "ggplot2",
+          "NoSQL",
+          "SQL"
+        ],
+        "areaValues": [0.9, 1, 1, 1]
       },
       {
         "title": "Tool Coordinator and Developer",
