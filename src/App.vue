@@ -39,16 +39,14 @@
       <section id="sec-publications">
         <the-publications :publications="cv.publications"></the-publications>
       </section>
-
-      <!-- <section id="sec-interests">
-        <the-interests :interests="cv.interests"></the-interests>
-      </section> -->
     </main>
 
     <footer class="row">
       <div class="col-12">
-        &#169; 2024 Cyrill Martin - Vue.js files available
-        <a href="https://github.com/cyrill-martin/cyrill-martin.github.io" target="_blank"
+        &#169; 2025 Cyrill Martin - Vue.js files available
+        <a
+          href="https://github.com/cyrill-martin/cyrill-martin.github.io"
+          target="_blank"
           >here</a
         >
       </div>
@@ -66,7 +64,7 @@ import ThePublications from "./components/ThePublications.vue";
 // import TheInterests from "./components/TheInterests.vue";
 import TheProjects from "./components/TheProjects.vue";
 import d3 from "./d3-importer.js";
-import myCv from "./myCv.json"
+import myCv from "./myCv.json";
 
 export default {
   components: {

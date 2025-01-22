@@ -243,17 +243,6 @@
       "summary": "A dynamic visualization showing the distribution of seats for the members of the Swiss parliament"
     },
     {
-      "title": "swisspolls.kmapper.com",
-      "company": null,
-      "url": "https://swisspolls.kmapper.com",
-      "gitHub": "https://github.com/cyrill-martin/swisspolls",
-      "period": {
-        "from": null,
-        "to": null
-      },
-      "summary": "Visualizations of the swissvotes data sets of the federal referendums follow-up surveys"
-    },
-    {
       "title": "cyrill-martin.github.io",
       "company": null,
       "url": "https://cyrill-martin.github.io/",
@@ -285,28 +274,6 @@
         "to": null
       },
       "summary": "A tool mapping open knowledge and Sustainable Development Goals based on open access works indexed in OpenAlex.org"
-    },
-    {
-      "title": "Machine Reasoning Microservice",
-      "company": null,
-      "url": null,
-      "gitHub": "https://github.com/nie-ine/microservice-reasoning-task",
-      "period": {
-        "from": null,
-        "to": null
-      },
-      "summary": "A machine reasoning microservice built for <a href=\"http://inseri.swiss/\" target=\"_blank\">inseri</a>"
-    },
-    {
-      "title": "Interactive Charts",
-      "company": null,
-      "url": null,
-      "gitHub": null,
-      "period": {
-        "from": null,
-        "to": null
-      },
-      "summary": "Some of the charts built for inseri: <a href=\"https://github.com/nie-ine/inseri/tree/devel/Tutorials/App%20descriptions%20for%20Researchers/Apps%20to%20visualise%20data/Bar%20Chart\" target=\"_blank\">Bar chart</a> · <a href=\"https://github.com/nie-ine/inseri/tree/devel/Tutorials/App%20descriptions%20for%20Researchers/Apps%20to%20visualise%20data/Grouped%20Bar%20Chart\" target=\"_blank\">Grouped bar chart</a> · <a href=\"https://github.com/nie-ine/inseri/tree/devel/Tutorials/App%20descriptions%20for%20Researchers/Apps%20to%20visualise%20data/Stacked%20Bar%20Chart\" target=\"_blank\">Stacked bar chart</a> · <a href=\"https://github.com/nie-ine/inseri/tree/devel/Tutorials/App%20descriptions%20for%20Researchers/Apps%20to%20visualise%20data/Pie%20Chart%20V2\" target=\"_blank\">Pie chart</a>"
     },
     {
       "title": "Kids multiplication tables game",
