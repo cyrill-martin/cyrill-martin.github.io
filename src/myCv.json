@@ -210,6 +210,17 @@
   },
   "projects": [
     {
+      "title": "grosserrat-bs.kmapper.ch",
+      "company": null,
+      "url": "https://grosserrat-bs.kmapper.ch",
+      "gitHub": "https://github.com/cyrill-martin/grosser-rat-basel-stadt",
+      "period": {
+        "from": null,
+        "to": null
+      },
+      "summary": "A dynamic visualization showing the distribution of seats for members of the Grand Council of Basel-Stadt in relation to an additional feature."
+    },
+    {
       "title": "migration-bs.kmapper.com",
       "company": null,
       "url": "https://migration-bs.kmapper.com",
@@ -230,7 +241,7 @@
         "to": null
       },
       "summary": "A project investigating the relationship between the financial support biomedical research projects receive and the number of citations their publications achieve"
-    },    
+    },
     {
       "title": "parlament.kmapper.com",
       "company": null,
@@ -329,19 +340,12 @@
     },
     {
       "skill": "Web",
-      "stack": [
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Vue.js",
-        "Flask",
-        "Jekyll"
-      ]
+      "stack": ["HTML", "CSS", "JavaScript", "Vue.js", "Flask", "Jekyll"]
     },
     {
       "skill": "Data visualization",
       "stack": ["D3.js", "ggplot2"]
-    },    
+    },
     {
       "skill": "DevOps",
       "stack": ["Git", "Docker"]
