@@ -4,11 +4,11 @@
   "middleName": null,
   "headline": {
     "jobTitle": null,
-    "summary": "Data Consultant · Skilled in structuring data and content for humans and machines"
+    "summary": "Freelance data consultant focused on custom web visualizations and data architecture. Combines analytical thinking with creative design to build interactive, exploratory visuals using D3.js and modern web technologies."
   },
   "image": "photo.png",
   "contact": {
-    "eMail": "cyrill.martin@gmail.com",
+    "eMail": "cyrill.martin@kmapper.com",
     "phone": null,
     "website": "https://cyrill-martin.github.io/",
     "address": {
@@ -32,6 +32,19 @@
     "areas": ["Design", "Management", "Data & Content", "Development"],
     "job": [
       {
+        "title": "Data Consultant",
+        "company": "kmapper GmbH",
+        "url": "https://kmapper.com",
+        "type": "Self-employed",
+        "period": {
+          "from": "Jan 2021",
+          "to": "Present"
+        },
+        "summary": "Designing and optimising data architectures and building custom D3.js visualizations for research-driven and interdisciplinary projects.",
+        "stack": ["JavaScript", "D3.js", "Vue.js", "Python", "R", "ggplot2"],
+        "areaValues": [0.9, 1, 1, 1]
+      },
+      {
         "title": "Requirements Engineer",
         "company": "Helvetia",
         "url": "https://www.helvetia.com/",
@@ -40,8 +53,8 @@
           "from": "Oct 2022",
           "to": "Present"
         },
-        "summary": "Conducting data analysis and requirements engineering initiatives for Helvetia's heliX platform · Collaborating with developers to facilitate and fulfill development tasks for the platform",
-        "stack": ["MongoDB"],
+        "summary": "Translate complex stakeholder needs into data-driven platform features and collaborate with developers to integrate requirements.",
+        "stack": ["NoSQL"],
         "areaValues": [0.6, 0.6, 1, 0.3]
       },
       {
@@ -53,8 +66,8 @@
           "from": "Jan 2022",
           "to": "Jun 2022"
         },
-        "summary": "Steered platform optimization and upgrades to enhance user experience and reliability · Curated data sets for accurate usage reporting and produced monthly data reports · Oversaw the equitable and timely distribution of funds to Swiss cantons, ensuring transparency and adherence",
-        "stack": ["Excel VBA"],
+        "summary": "Managed platform features and curated datasets for usage analysis and reporting.",
+        "stack": [],
         "areaValues": [0.1, 0.8, 1, 0.5]
       },
       {
@@ -66,32 +79,9 @@
           "from": "Mar 2021",
           "to": "Jun 2021"
         },
-        "summary": "Designed and developed a drug discovery data exploration website's user interface · Developed custom visualizations and features for intuitive data representation and sharing among a research group · Introduced seamless data export and implemented a streamlined single sign-on access",
-        "stack": ["Vue.js", "D3.js", "Django", "MongoDB", "Docker"],
+        "summary": "Developed a data exploration interface with custom data visualizations and collaborative data-sharing features.",
+        "stack": ["Vue.js", "D3.js", "Django", "MongoDB"],
         "areaValues": [0.8, 0.1, 1, 1]
-      },
-      {
-        "title": "Data Consultant",
-        "company": "kmapper GmbH",
-        "url": "https://kmapper.com",
-        "type": "Self-employed",
-        "period": {
-          "from": "Jan 2021",
-          "to": "Present"
-        },
-        "summary": "Designing and optimizing data and information architectures · Leading requirements engineering for data-intensive projects · Conducting comprehensive evaluations of data and systems for insights · Creating engaging and informative data visualizations for diverse audiences",
-        "stack": [
-          "JavaScript",
-          "D3.js",
-          "Vue.js",
-          "Python",
-          "Flask",
-          "R",
-          "ggplot2",
-          "NoSQL",
-          "SQL"
-        ],
-        "areaValues": [0.9, 1, 1, 1]
       },
       {
         "title": "Tool Coordinator and Developer",
@@ -102,7 +92,7 @@
           "from": "Feb 2020",
           "to": "Dec 2020"
         },
-        "summary": "Engineered frontend components and data visualizations for scientific editions on the inseri platform · Developed backend microservices and data migration scripts for the inseri infrastructure · Bridged scientific and software architectural needs, ensuring effective project alignment · Created a website to disseminate Humanities ontologies in both human- and machine-readable formats",
+        "summary": "Built data visualizations and microservices for scholarly editions on the inseri platform.",
         "stack": [
           "Angular",
           "D3.js",
@@ -110,7 +100,6 @@
           "Python",
           "Flask",
           "XSLT",
-          "Jekyll",
           "Docker"
         ],
         "areaValues": [0.6, 0.2, 1, 1]
@@ -124,8 +113,8 @@
           "from": "Jun 2019",
           "to": "Mar 2020"
         },
-        "summary": "Co-initiated an interdisciplinary digital agency emphasizing structured data and digital transformation · Developed solutions that prioritized content relevance and adhered to modern digital practices",
-        "stack": ["Python", "Jekyll"],
+        "summary": "Co-initiated a digital agency focused on structured data and content.",
+        "stack": [],
         "areaValues": [0.5, 0.9, 1, 0.9]
       },
       {
@@ -137,7 +126,7 @@
           "from": "Aug 2018",
           "to": "May 2019"
         },
-        "summary": "Developed Karger’s strategic competences in advanced technologies · Facilitated knowledge transfer, simplifying complex technological solutions for internal teams · Constructed a support vector machine using PubMed data for precise scientific article classification",
+        "summary": "Developed internal capabilities around advanced technologies and implemented a data-driven article classification system using PubMed data.",
         "stack": ["SQL", "XML", "XPath", "R"],
         "areaValues": [0, 1, 1, 0.9]
       },
@@ -150,7 +139,7 @@
           "from": "Oct 2015",
           "to": "Jul 2018"
         },
-        "summary": "Streamlined production and distribution workflows, ensuring adherence to key bibliographic and metadata standards · Led and expanded a team of four, overseeing recruitment and team development · Elevated data quality by leveraging public data sources · Ensured direct marketing data aligned with GDPR compliance",
+        "summary": "Managed bibliographic and metadata workflows, leading a team of four, and improved data quality for marketing and publication datasets.",
         "stack": ["SQL", "XML"],
         "areaValues": [0, 1, 1, 0.5]
       },
@@ -163,7 +152,7 @@
           "from": "Feb 2013",
           "to": "Sep 2015"
         },
-        "summary": "Spearheaded the transition from Karger's proprietary SGML standard to JATS XML, optimizing content conversion workflows · Harmonized the development and upkeep of publication-related content, metadata standards, and data distributions",
+        "summary": "Led the transition from proprietary SGML to JATS XML, streamlining content and metadata pipelines.",
         "stack": ["SQL", "XML"],
         "areaValues": [0, 0.5, 1, 0.5]
       },
@@ -176,7 +165,7 @@
           "from": "Feb 2012",
           "to": "Jan 2013"
         },
-        "summary": "Reviewed and edited scientific articles to enhance readability, ensuring content consistency across text, figures, and tables · Diligently corrected grammar, spelling, and punctuation to maintain the publication's standards",
+        "summary": "Reviewed scientific articles for clarity and consistency across text, figures, and tables.",
         "stack": [],
         "areaValues": [0, 0.1, 1, 0]
       },
@@ -189,7 +178,7 @@
           "from": "Mar 2010",
           "to": "Feb 2012"
         },
-        "summary": "Conducted requirements engineering and crafted project documentation for a bi-temporal database application · Initiated graphical user interface prototypes · Implemented automated GUI tests · Developed and conducted usability tests and training sessions with end users",
+        "summary": "Requirements engineering and prototyping for database and UI development.",
         "stack": ["SQL"],
         "areaValues": [0.6, 0.2, 0.6, 0.2]
       },
@@ -202,13 +191,35 @@
           "from": "Apr 2009",
           "to": "Sep 2009"
         },
-        "summary": "Orchestrated fieldwork planning for soil sciences within an interdisciplinary SNF project · Authored a scientific paper rooted in Master's thesis findings",
+        "summary": "Data analysis and publication work in soil sciences.",
         "stack": ["R"],
         "areaValues": [0, 0.2, 0.85, 0.3]
       }
     ]
   },
   "projects": [
+    {
+      "title": "kmapper.org",
+      "company": null,
+      "url": "https://kmapper.org",
+      "gitHub": "https://github.com/cyrill-martin/kmapper.org",
+      "period": {
+        "from": null,
+        "to": null
+      },
+      "summary": "A tool mapping open knowledge and Sustainable Development Goals based on open access works indexed in OpenAlex.org"
+    },
+    {
+      "title": "data.governance-advisors.ch",
+      "company": null,
+      "url": "https://data.governance-advisors.ch",
+      "gitHub": "https://github.com/cyrill-martin/governance-advisors-data",
+      "period": {
+        "from": null,
+        "to": null
+      },
+      "summary": "The dynamic heat map shows how SMI board composition has changed over time."
+    },
     {
       "title": "grosserrat-bs.kmapper.ch",
       "company": null,
@@ -274,28 +285,6 @@
         "to": null
       },
       "summary": "Company website"
-    },
-    {
-      "title": "kmapper.org",
-      "company": null,
-      "url": "https://kmapper.org",
-      "gitHub": "https://github.com/cyrill-martin/kmapper.org",
-      "period": {
-        "from": null,
-        "to": null
-      },
-      "summary": "A tool mapping open knowledge and Sustainable Development Goals based on open access works indexed in OpenAlex.org"
-    },
-    {
-      "title": "Kids multiplication tables game",
-      "company": null,
-      "url": "https://1mal1.kmapper.com",
-      "gitHub": "https://github.com/cyrill-martin/mathgame",
-      "period": {
-        "from": null,
-        "to": null
-      },
-      "summary": "Learn your multiplication tables and get rewarded with silly Youtube videos of cats and dogs"
     }
   ],
   "education": {

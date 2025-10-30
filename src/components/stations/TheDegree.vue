@@ -8,8 +8,8 @@
     @touchstart="highlightEduTablet"
     @click="highlightEduMobile"
   >
-    <div class="degree-institution">{{ degree.institution }}</div>
     <div class="degree-degree">{{ degree.degree }}</div>
+    <div class="degree-institution">{{ degree.institution }}</div>
     <div class="degree-period">
       {{ degree.period.from }} – {{ degree.period.to }}
     </div>
@@ -126,11 +126,11 @@ export default {
 
 <style scoped>
 .degree-institution {
-  font-size: 1.2rem;
   font-weight: 700;
 }
 
 .degree-degree {
+  font-size: 1.2rem;
   font-weight: 700;
 }
 
